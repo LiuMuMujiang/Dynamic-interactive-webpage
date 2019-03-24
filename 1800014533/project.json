@@ -1,0 +1,23 @@
+{
+	"description" : "添加背景音效版本 [Audio version] \n\n音量大小可在系统的音量合成器里调整！ \n-------------------------------------------------------------------------\n已更新： \n右上角增加隐藏式声音暂停按钮!\nupper right corner with hidden mute button!",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Landscape", "Nature", "Relaxing" ],
+	"title" : "进入地平线_动态背景 [WEB版 有声]",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 821129041
+}
