@@ -1,0 +1,23 @@
+{
+	"description" : "Space Wallpaper with Particles\nResolution up to 5760x1080 (Triple 1080p Setup)\n\nCredits:\nParticles: https://github.com/VincentGarreau/particles.js\nWallpaper: http://www.triplemonitorbackgrounds.com/junni45/xfkgooj.jpg.php",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Sci-Fi" ],
+	"title" : "Space Wallpaper w/ Particles",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 905829454
+}
