@@ -1,0 +1,22 @@
+{
+	"description" : "主角2B \n这次做的依然是wlop的壁纸。 \n图片素材出处： \n「wlop」 的作品 - 插画 [pixiv] http://www.pixiv.net/member_illust.php?id=2188232 \n特效说明：js特效各图层会跟随你的鼠标以不同的速度进行滑动。",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"title" : "NieR Automata尼尔：机械纪元",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 827472420
+}
